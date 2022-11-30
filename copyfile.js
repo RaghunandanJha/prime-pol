@@ -1,4 +1,4 @@
- let flag=falsee; 
+ let flag=false; 
    for(let i=2;i<a;++i){
        if(a%i==0){
            flag=true;
